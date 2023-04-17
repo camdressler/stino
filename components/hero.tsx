@@ -15,7 +15,7 @@ export default function hero() {
                 <h4 className="">See Projects</h4>
                 <ChevronRight className="text-s-tan w-5 h-5 ml-1" />
             </Link>
-            <h2 className="text-lg text-s-tan mt-8">contact [at] this website</h2>
+            <h2 className="text-lg text-s-tan mt-8">Email: contact [at] this website</h2>
         </div>
     );
 }
